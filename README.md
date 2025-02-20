@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍🔬 About Me  
-I am a **PhD researcher**. **Turning coffee into code, one commit at a time.**  
+I am a **PhD researcher**. **Code just for fun.**  
 
 I am interested in:
 - 🧬 **Phylogenomics & Evolutionary Biology**  
