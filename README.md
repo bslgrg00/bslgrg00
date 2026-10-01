@@ -9,11 +9,11 @@
 ---
 
 ## 👨‍🔬 About Me  
-I am a **PhD researcher**. **Code just for fun.**  
+I am a **PhD researcher**.
 
 I am interested in:
-- 🧬 **Phylogenomics & Evolutionary Biology**  
-- 🖥️ **Bioinformatics & Computational Biology**  
+- **Phylogenomics & Evolutionary Biology**  
+- **Bioinformatics & Computational Biology**  
 - **Plant Taxonomy & Systematics**  
 - **Computer-Aided Drug Design (CADD) & Molecular Docking**  
 - **Data Visualization & Scientific Communication**  
@@ -28,15 +28,12 @@ I am interested in:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 
-### **Bioinformatics Tools:**  
-- SLURM, Singularity, AutoDock Vina, OpenBabel  
-- IQ-TREE, RAxML, PhyX, MAFFT, OrthoFinder  
 
 ---
 
 ## 📫 Connect with Me  
 I'm always open to collaborating on interesting projects or discussing new ideas. 
-- **Email:** bsl.grg1996@gmail.com 
+- **Email:** bsl.grg1996@gmail.com or bishal@mail.kib.ac.cn
 - **LinkedIn:** [Bishal Gurung](https://www.linkedin.com/in/bishal-gurung-8a9824160/)
 - **X:** [@bslgrg](https://x.com/bslgrg)
 
