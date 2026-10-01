@@ -14,9 +14,9 @@ I am a **PhD researcher**. **Code just for fun.**
 I am interested in:
 - 🧬 **Phylogenomics & Evolutionary Biology**  
 - 🖥️ **Bioinformatics & Computational Biology**  
-- 🌿 **Plant Taxonomy & Systematics**  
-- 💊 **Computer-Aided Drug Design (CADD) & Molecular Docking**  
-- 📊 **Data Visualization & Scientific Communication**  
+- **Plant Taxonomy & Systematics**  
+- **Computer-Aided Drug Design (CADD) & Molecular Docking**  
+- **Data Visualization & Scientific Communication**  
 
 ---
 
