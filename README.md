@@ -12,16 +12,16 @@
 I am a **PhD researcher**.
 
 I am interested in:
-- **Phylogenomics & Evolutionary Biology**  
-- **Bioinformatics & Computational Biology**  
-- **Plant Taxonomy & Systematics**  
-- **Computer-Aided Drug Design (CADD) & Molecular Docking**  
-- **Data Visualization & Scientific Communication**  
+- **Phylogenomics & evolutionary biology**  
+- **Bioinformatics & computational biology**  
+- **Plant taxonomy & systematics**  
+- **Computer-Aided Drug Design (CADD) & molecular docking**  
+- **Data visualization & scientific communication**  
 
 ---
 
-## 🛠️ Tech Stack  
-### **Languages & Tools:**  
+## 🛠️ Tech stack  
+### **Languages & tools:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  
